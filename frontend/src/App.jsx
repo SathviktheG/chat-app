@@ -3,13 +3,13 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import SignUpPage from './pages/SignUpPage';
 import LogInPage from './pages/LogInPage';
-import Settingspage from './pages/Settingspage';
 import ProfilePage from './pages/ProfilePage';
 import Navbar from './components/Navbar';
 import { useAuthStore } from './store/useAuthStore';
 import { Loader} from "lucide-react";
 import { Toaster } from 'react-hot-toast';
 import { useThemeStore } from './store/useThemeStore';
+import Settingspage from './pages/SettingsPage';
 
 const App = () => {
   const {authUser,checkAuth,isCheckingAuth,onlineUsers}=useAuthStore();
