@@ -39,6 +39,7 @@ This is a real-time chat app that allows users to sign up, sign in, and chat wit
 - Node.js (version 18 or higher)
 - npm (comes with Node.js)
 - MongoDB (installed locally or accessible remotely)
+- Cloudinary (Create free account online) 
 
 ### Installation
 
