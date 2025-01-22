@@ -122,3 +122,39 @@ This project does not currently have a license.
 
 ## Visit the website
 https://chat-app-3qzx.onrender.com/
+
+## ScreenShots from Render
+
+Sign in page
+
+![signInPage](https://github.com/user-attachments/assets/1d3b6d47-53c9-4a17-ab14-234fbcbc0ab4)
+
+Sign up page
+
+![signUpPage](https://github.com/user-attachments/assets/9c3d143b-36d3-4107-952f-5643afc8df35)
+
+Main UI
+
+![mainUI](https://github.com/user-attachments/assets/2933972b-e893-4886-8db5-b194dd9541f3)
+
+Real-Time-Messaging
+
+![realTimeMessaging1](https://github.com/user-attachments/assets/c5453c7d-3c91-4a13-8e5f-eadb5dd6fdc3)
+![RealtimeTest2](https://github.com/user-attachments/assets/7a93fd59-3114-4c5a-b0cf-a8558cb30768)
+
+Profile Page
+
+![Profilepage](https://github.com/user-attachments/assets/a003e745-9744-46fa-b9b9-42b10a62c59e)
+
+Profile Image Editing
+
+![editProfileImage](https://github.com/user-attachments/assets/8d8b3edc-96ac-4e66-96a3-7ca815a9eed1)
+
+Theme Page and Theme Editing
+
+![ThemePage](https://github.com/user-attachments/assets/cb4f1b3a-3a03-4478-aaa9-9ba7365094ce)
+![Theme1](https://github.com/user-attachments/assets/fbf0fff1-e64e-4d30-a49a-2e9c365cc621)
+![Theme2](https://github.com/user-attachments/assets/6b86edfe-65fa-4fb4-b582-2b17e50cee42)
+![Theme3](https://github.com/user-attachments/assets/37e2ec94-0295-4841-bbd5-e78ae859b866)
+
+
